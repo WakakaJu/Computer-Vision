@@ -8,7 +8,7 @@
 `lena.png`是程序测试用例</br>
 使用时注意更改读取图片的路径</br></br>
 # 图像分割各经典方法的对比研究实验报告
-**包含各算法原理及实现效果，见pdf文件，必看！！**</br>
+**包含各算法原理及实现效果，见pdf文件，必看！！**</br></br></br>
 ![2](https://user-images.githubusercontent.com/88924975/158009137-0322e22d-0e37-4449-9710-53317080baf8.jpg)
 ![3](https://user-images.githubusercontent.com/88924975/158009139-3f35cd2f-121e-42be-b4d0-1a2c77f2e063.jpg)
 ![4](https://user-images.githubusercontent.com/88924975/158009142-7043048f-23eb-487f-aa87-d046a2519d0a.jpg)

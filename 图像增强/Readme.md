@@ -1,7 +1,9 @@
 # 图像增强
 图像增强的经典算法的复现，包括：</br>
 直方图增强类图像增强：标准直方图均衡 HE、基于亮度均值保持的直方图均衡 BBHE、自适应直方图均衡 AHE、限制对比度自适应直方图均衡 CLAHE</br>
-基于 Retinex 的图像增强：单尺度 Retinex 算法 SSR、多尺度加权平均的 Retinex 算法 MSR</br></br></br>
+基于 Retinex 的图像增强：单尺度 Retinex 算法 SSR、多尺度加权平均的 Retinex 算法 MSR</br>
+## 图像增强各经典算法对比研究实验报告
+</br></br>
 ![2](https://user-images.githubusercontent.com/88924975/158009283-e8cbd64f-9020-4965-ac1b-fbbd63396f58.jpg)
 ![3](https://user-images.githubusercontent.com/88924975/158009285-12b09cad-7c7c-480b-9dcb-e23de868af76.jpg)
 ![4](https://user-images.githubusercontent.com/88924975/158009494-35be2185-21fa-407a-af01-bf56bf73e51f.jpg)

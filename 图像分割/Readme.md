@@ -9,15 +9,26 @@
 使用时注意更改读取图片的路径</br></br>
 # 图像分割各经典方法的对比研究实验报告
 **包含各算法原理及实现效果，见pdf文件，必看！！**</br></br>
-![2](https://user-images.githubusercontent.com/88924975/158009821-c58fa298-f472-4eaa-bffc-6f2b3905974c.jpg)
-![3](https://user-images.githubusercontent.com/88924975/158009824-a3e97bf5-4f8d-409a-bb18-5f439833e4af.jpg)
-![4](https://user-images.githubusercontent.com/88924975/158009827-1b3813b8-35e7-42c1-8b08-f8e90266e499.jpg)
-![5](https://user-images.githubusercontent.com/88924975/158009830-423606f2-3795-4936-961d-2ea495d6bed3.jpg)
-![6](https://user-images.githubusercontent.com/88924975/158009833-7684910f-0e75-4b31-950c-208a1cb2e05c.jpg)
-![7](https://user-images.githubusercontent.com/88924975/158009835-82c69a91-9604-4ff6-8147-e7e2f504b48a.jpg)
-![8](https://user-images.githubusercontent.com/88924975/158009838-165b3ec2-f74f-47ce-9933-b3188c7dfe6d.jpg)
-![9](https://user-images.githubusercontent.com/88924975/158009839-33f96bc3-d3a4-4413-8471-7a0aecf4f2af.jpg)
-![10](https://user-images.githubusercontent.com/88924975/158009842-163ea0ab-0988-490f-9014-68b32bb3612e.jpg)
-![11](https://user-images.githubusercontent.com/88924975/158009846-31f95746-ee2c-4046-b1f4-6990dc8db0eb.jpg)
-![12](https://user-images.githubusercontent.com/88924975/158009848-ab86183c-b1e2-4493-9ba8-ca6097fdb15a.jpg)
-![13](https://user-images.githubusercontent.com/88924975/158009853-ebee6347-bc27-4bfd-ba1e-2b79989ddda1.jpg)
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/2.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/3.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/4.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/5.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/6.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/7.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/8.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/9.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/10.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/11.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/12.jpg" /></div></br>
+
+<div align=center><img src="https://github.com/WakakaJu/pictures/tree/main/Computer-Vision/image_seg/13.jpg" /></div></br>
